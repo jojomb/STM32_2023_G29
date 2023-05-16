@@ -1,0 +1,4 @@
+../Core/Src/HT.c:13:6:delay	16	static
+../Core/Src/HT.c:20:6:Data_Output	40	static
+../Core/Src/HT.c:29:6:Data_Input	40	static
+../Core/Src/HT.c:38:6:Read_data	24	static
